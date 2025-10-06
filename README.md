@@ -46,10 +46,9 @@ Este proyecto consiste en un dashboard interactivo en Power BI que analiza la re
 📌 **Conclusiones**
 
 - Más del 51% de los estudiantes presentan estrés alto.
-- Los hábitos que más influyen en el estrés son: estudio, sueño y actividad física.
-- Estudiar muchas horas se asocia con estrés elevado, mientras que dormir más de 7 horas se relaciona con estrés reducido.
-- La actividad física moderada y el tiempo social contribuyen a disminuir el estrés.
-- Se pueden identificar perfiles “resilientes” que mantienen bajo estrés pese a estudiar bastante.
+- Los hábitos que más influyen en reducir el estrés son el sueño, la actividad física y la socialización, mientras que el hábito que más aumenta el estrés es el estudio.
+- Estudiar más de 8 horas se asocia con estrés elevado, mientras que dormir entre 6 y 8 horas se relaciona con estrés reducido.
+- Se pueden identificar perfiles “resilientes” que mantienen bajo estrés pese a estudiar mucho y dormir menos de 6 horas.
 
 ---
 
